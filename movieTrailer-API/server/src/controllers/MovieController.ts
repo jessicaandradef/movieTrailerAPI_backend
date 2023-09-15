@@ -92,7 +92,7 @@ class MovieController {
 
       const { title, releaseDate, trailerLink, genres } = req.body;
 
-      const poster = req.files?.image;
+      const poster = req.files?.posterUrl;
 
       let posterImage = "no-image.jpg";
 
