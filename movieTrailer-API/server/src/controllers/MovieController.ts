@@ -110,7 +110,7 @@ class MovieController {
       );
 
       if (!existingMovie) {
-        throw ApiError.NotFoundError(`Movie not found fot ${id}`);
+        throw ApiError.NotFoundError(`Movie not found for ${id}`);
       }
 
       if (existingMovie) {
