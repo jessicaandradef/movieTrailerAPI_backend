@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Movie Trailer Rating API is a powerful backend solution designed to support a website where users can explore and rate movie trailers.  The project was created to complete the Backend module in the FullStack Web Development course and to enhance my web development skills using Node.js, Typescript and MongoDB. This API provides a seamless and user-friendly interface for users to discover movie trailers, access detailed movie information, rate and comment their favorite films. To unlock premium features such as rating movies, users must first register and log in to the website.
+The Movie Trailer Rating API is a backend solution designed to support a website where users can explore and rate movie trailers.  The project was created to complete the Backend module in the FullStack Web Development course and to enhance my web development skills using Node.js, Typescript and MongoDB. This API provides a seamless and user-friendly interface for users to discover movie trailers, access detailed movie information, rate and comment their favorite films. To unlock premium features such as rating movies, users must first register and log in to the website.
 
 ## Story
 
